@@ -110,7 +110,7 @@ WordPress is maintained and advanced by a global community of volunteer contribu
 1.  Resources are crowdsourced via the web and social media.
 2.  The source code is available for anyone to view, modify, and improve.
 3.  A programmer can open the compiled binary software for source code.
-4.  The sofware is available at many online and in-store sources.
+4.  The software is available at many online and in-store sources.
 
 **Answer:** 2. Source code is available for anyone to view, modify and improve
 
@@ -191,7 +191,7 @@ A key takeaway from the book is the idea that "given enough eyeballs, all bugs 
 As an end user, developer, or business manager, why should one consider whether or not to use open-source software. Here are some key factors:
 
 *   There is typically little cost (some projects may add a small distribution fee)
-*   There is no contractural license, instead the license outlines rules for sharing
+*   There is no contractual license, instead the license outlines rules for sharing
 *   The software is customizable, and public forums and documentation support that
 *   There is no vendor lock-in for customization and bug fixes
 *   Abandoned software projects can be adopted by new development teams
